@@ -1,0 +1,74 @@
+.HeaderWeb {
+    background-color: #0055A4; /* Azul */
+    padding: 10px;
+    text-align: center;
+    color: #fff; /* Color de texto */
+}
+.body{
+
+    background-image: url(imgs/BanderaCostaRica10.jpg); 
+    background-size: cover; 
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif; 
+    color: #fff; 
+
+}
+.Table_Container {
+    position: relative;
+    width: 100%;
+    overflow: hidden; 
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+table th, table td {
+    padding: 10px;
+}
+
+table img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+table p {
+    font-weight: bold;
+}
+
+.Table_Encuestas1 img{
+    max-width: 80% ;
+    max-height: 80%;
+}
+.links {
+    backdrop-filter: blur(10px); 
+    background-color: rgba(255, 255, 255, 0.5); 
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+.links h2 {
+    margin-top: 0;
+    text-align: center;
+}
+.footer {
+    backdrop-filter: blur(10px); 
+    background-color: rgba(255, 255, 255, 0.5); 
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+.Preelectorales{
+    width: 200%; /* Establece el ancho de la imagen al 100% del contenedor */
+    max-width: 2000px; /* Establece un ancho máximo para la imagen, ajusta según tus necesidades */
+    height: auto; 
+}
+
+
+

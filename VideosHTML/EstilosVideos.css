@@ -1,0 +1,48 @@
+.HeaderPLP {
+    background-color:#ff6633 ; /* Azul */
+    padding: 10px;
+    text-align: center;
+    color: #fff; /* Color de texto */
+}
+.Youtube-Video{
+    color: black;
+    padding: 20px;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.body{
+    background-image: url("imgs/PLP.webp"); 
+    background-size: cover; 
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif; 
+    color: #fff; 
+
+} 
+.Discurso{
+    color: black;
+    padding: 20px;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.audio-discurso{
+    color: black;
+    padding: 20px;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.HeaderFA{
+    background-color:#f3f302 ; /* Azul */
+    padding: 10px;
+    text-align: center;
+    color: black; /* Color de texto */
+}
+.bodyFA{
+    background-image: url("imgs/Bandera-del-Partido-Frente-Amplio..jpg"); 
+    background-size: cover; 
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif; 
+    color: #fff; 
+}
